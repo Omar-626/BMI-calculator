@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+h2 {
+    margin-bottom: 35px;
+}
+
+p {
+    font-size: 22px;
+}
+
+button {
+    width: 100%;
+}
